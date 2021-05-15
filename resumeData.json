@@ -2,7 +2,7 @@
   "main": {
     "name": "Siddharth Pachori",
     "occupation": "Senior Software Engineer",
-    "description": "Software engineer, Frontend enthusiast, acute learner, and Designer with a knack and passion for agile problem solving",
+    "description": "UI-UX designer Frontend enthusiast, acute learner, and Designer with a knack and passion for agile problem solving",
     "image": "profilepic.jpeg",
     "bio": "5+ years experience with programming , technology engineering and bringing ideas to life. Innovating and automating them on a role of Software Designer or Analyst with Company incorporating critical thinking, problem solving,and leadership",
     "contactmessage": "Would love to connect",
@@ -54,7 +54,7 @@
         "description": "Project Management Tricks"
       },
       {
-        "school": "Narsee Monjee College",
+        "school": "Narsee Monjee College - Mumbai University",
         "degree": "Bsc.IT",
         "graduated": "June 2015",
         "description": "Graduation"
@@ -69,7 +69,7 @@
       },
       {
         "company": "Cybage Software",
-        "title": "Senior Sodtware Engineer || Frontend Engineer ",
+        "title": "Senior Software Engineer || Frontend Engineer ",
         "years": "March 2019 - March 2021",
         "description": "Contributed on UI, UX and data exchange part in fictiv.com using latest tech stack of ReactJS, GraphQL, Typescript and AWS"
       },
@@ -121,7 +121,7 @@
         "title": "pens.com",
         "category": "CMS e-commerce website",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://pens.com"
+        "url": "https://pens.com/ie"
       },
       {
         "title": "fictiv.com",
@@ -134,18 +134,6 @@
         "category": "Internal tool of Credit Suisse for access management layout",
         "image": "original-thai-food.jpg",
         "url": ""
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Siddharth Pachori must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
