@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Siddharth Pachori",
+    "occupation": "Senior Software Engineer",
+    "description": "Software engineer, Frontend enthusiast, acute learner, and Designer with a knack and passion for agile problem solving",
+    "image": "profilepic.jpeg",
+    "bio": "5+ years experience with programming , technology engineering and bringing ideas to life. Innovating and automating them on a role of Software Designer or Analyst with Company incorporating critical thinking, problem solving,and leadership",
+    "contactmessage": "Would love to connect",
+    "email": "siddpachori@gmail.com",
+    "phone": "siddpachori@gmail.com",
+    "address": {
+      "street": "XXXXX",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "XXXXXX"
+    },
+    "website": "http://www.siddharthpachori.com",
+    "resumedownload": "http://siddharthpachori.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/siddpachori",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siddharth-pachori-07a35363/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/whoa_sid/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sidd105",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Welingkar University?",
+        "degree": "PGDM in Project Management",
+        "graduated": "April 2021",
+        "description": "Project Management Tricks"
+      },
+      {
+        "school": "Narsee Monjee College",
+        "degree": "Bsc.IT",
+        "graduated": "June 2015",
+        "description": "Graduation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cimpress India",
+        "title": "Senior Software Engineer || Frontend Engineer ",
+        "years": "March 2021 - Present",
+        "description": "Contributing in an CMS application of pens.com"
+      },
+      {
+        "company": "Cybage Software",
+        "title": "Senior Sodtware Engineer || Frontend Engineer ",
+        "years": "March 2019 - March 2021",
+        "description": "Contributed on UI, UX and data exchange part in fictiv.com using latest tech stack of ReactJS, GraphQL, Typescript and AWS"
+      },
+      {
+        "company": "Wipro Technologies",
+        "title": "Software Engineer",
+        "years": "September 2015 - February 2019",
+        "description": "Contributed on Access Management tool of Credit Suisse with tech stack comprising of .NET and its shenanigans"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Vanilla Javascript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS with Redux (CSR,SSR)",
+        "level": "100%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "70%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "pens.com",
+        "category": "CMS e-commerce website",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://pens.com"
+      },
+      {
+        "title": "fictiv.com",
+        "category": "Airbnb of Manufacturing",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.fictiv.com"
+      },
+      {
+        "title": "Credit Suisse IAM portfolio",
+        "category": "Internal tool of Credit Suisse for access management layout",
+        "image": "original-thai-food.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Siddharth Pachori must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
