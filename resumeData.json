@@ -7,16 +7,6 @@
     "resumedownload": "http://siddharthpachori.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/siddpachori",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/siddharth-pachori-07a35363/",
         "className": "fa fa-linkedin"
