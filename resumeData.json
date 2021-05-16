@@ -20,13 +20,18 @@
         "name": "github",
         "url": "https://github.com/sidd105",
         "className": "fa fa-github"
+      },
+      {
+        "name": "mail",
+        "url": "mailto: siddpachori@gmail.com",
+        "className": "fa fa-envelope"
       }
     ],
     "name": "Siddharth Pachori",
     "occupation": "Senior Software Engineer",
     "description": "Frontend enthusiast, learner, and Designer with a knack and passion for agile problem solving",
     "image": "profilepic.jpeg",
-    "bio": "Senior UI developer with 5+ years experience in programming , technology engineering and bringing ideas to life. Innovating and automating them on a role of Software Designer or Analyst with Company incorporating critical thinking, problem solving,and leadership",
+    "bio": "Senior UI developer with 5+ years experience in programming , technology engineering and bringing ideas to life. Innovating and automating them on a role of Software Designer or Analyst with Company incorporating critical thinking, problem solving,and leadership.",
     "contactmessage": "Would love to connect",
     "email": "siddpachori@gmail.com",
     "address": {

@@ -5,6 +5,9 @@ jQuery(document).ready(function($) {
 
     $(".smoothscroll").on("click", function(e) {
       e.preventDefault();
+      if(!this.hash){
+        return null
+      }
       var target = this.hash,
         $target = $(target);
 
