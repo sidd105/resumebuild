@@ -62,7 +62,7 @@
         "years": "March 2021 - Present",
         "description": "Contributing in an CMS application of pens.com",
         "category": "CMS e-commerce website",
-        "image": "",
+        "image": "https://s3.ap-south-1.amazonaws.com/www.siddharthpachori.com/pens-ie.png",
         "url": "https://pens.com/ie"
       },
       {
@@ -71,7 +71,7 @@
         "years": "March 2019 - March 2021",
         "category": "Airbnb of Manufacturing",
         "description": "Contributed on UI, UX and data exchange part in fictiv.com using latest tech stack of ReactJS, GraphQL, Typescript and AWS",
-        "image": "",
+        "image": "https://s3.ap-south-1.amazonaws.com/www.siddharthpachori.com/fictiv.png",
         "url": "https://www.fictiv.com"
       },
       {
