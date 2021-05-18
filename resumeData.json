@@ -9,22 +9,32 @@
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/siddharth-pachori-07a35363/",
-        "className": "fa fa-linkedin"
+        "className": "fa fa-linkedin",
+        "message": "Connect with me on Linkedin"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/whoa_sid/",
-        "className": "fa fa-instagram"
+        "className": "fa fa-instagram",
+        "message": "Chit-chat i guess?"
       },
       {
         "name": "github",
         "url": "https://github.com/sidd105",
-        "className": "fa fa-github"
+        "className": "fa fa-github",
+        "message": "Source Projects"
       },
       {
         "name": "mail",
         "url": "mailto: siddpachori@gmail.com",
-        "className": "fa fa-envelope"
+        "className": "fa fa-envelope",
+        "message": "Send mail"
+      },
+      {
+        "name": "resume",
+        "url": "https://s3.ap-south-1.amazonaws.com/www.siddharthpachori.com/resume.pdf",
+        "className": "fa fa-download",
+        "message": "Download resume"
       }
     ],
     "name": "Siddharth Pachori",
