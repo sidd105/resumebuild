@@ -1023,3 +1023,28 @@ footer .social-links li:first-child { margin-left: 0; }
 .github-btn{
    background-color: #34495e !important;
 }
+
+.tooltip {
+   position: relative;
+   display: inline-block;
+   border-bottom: 1px dotted black;
+ }
+ 
+ .tooltip .tooltiptext {
+   visibility: hidden;
+   width: 120px;
+   background-color: black;
+   color: #fff;
+   text-align: center;
+   border-radius: 6px;
+   padding: 5px 0;
+   font-size: small;
+ 
+   /* Position the tooltip */
+   position: absolute;
+   z-index: 1;
+ }
+ 
+ .tooltip:hover .tooltiptext {
+   visibility: visible;
+ }
