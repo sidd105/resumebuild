@@ -13,10 +13,10 @@
         "message": "Connect with me on Linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/whoa_sid/",
-        "className": "fa fa-instagram",
-        "message": "Chit-chat i guess?"
+        "name": "stack overflow",
+        "url": "https://stackoverflow.com/users/7625738/siddharth-pachori",
+        "className": "fa fa-stack-overflow",
+        "message": "stacks"
       },
       {
         "name": "github",
@@ -99,11 +99,11 @@
         "level": "100%"
       },
       {
-        "name": "ReactJS with Redux (CSR,SSR)",
+        "name": "React with Redux and TS",
         "level": "100%"
       },
       {
-        "name": "GraphQL",
+        "name": "Express + GraphQL",
         "level": "70%"
       },
       {
@@ -111,19 +111,19 @@
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "HTML5 with CSS",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": ".NET with MVC and Webapi",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "BackBone or Knockout",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "Oracle PL/SQL and SQL servers",
         "level": "80%"
       }
     ]
