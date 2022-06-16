@@ -1,6 +1,5 @@
 {
   "main": {
-    "phone": "+91-8879230591",
     "github":"https://github.com/sidd105",
     "project":"*",
     "website": "http://www.siddharthpachori.com",
@@ -56,13 +55,13 @@
         "school": "Welingkar University",
         "degree": "PGDM in Project Management",
         "graduated": "April 2021",
-        "description": "Project Management Tricks"
+        "description": ""
       },
       {
         "school": "Narsee Monjee College",
         "degree": "Bsc.IT",
         "graduated": "June 2015",
-        "description": "Graduation"
+        "description": ""
       }
     ],
     "work": [
@@ -88,7 +87,7 @@
         "company": "Wipro Technologies",
         "title": "Software Engineer",
         "years": "September 2015 - February 2019",
-        "description": "Contributed on private Access Management tool of Credit Suisse with tech stack comprising of .NET and its shenanigans",
+        "description": "Contributed on private Access Management tool of Credit Suisse with tech stack comprising of .NET",
         "image": "credit-suisse.jpg",
         "category": "Internal tool of Credit Suisse for access management layout"
       }
