@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #fe6928; font-size: 20px; }
 
 
 /* ------------------------------------------------------------------ */
@@ -182,7 +182,6 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -231,7 +230,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   /* background: #fff; */
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -248,9 +247,11 @@ ul#nav li.current a { color: #fe6928; }
 #resume h1 span {
    border-bottom: 3px solid #0762f9;
    padding-bottom: 6px;
+   color: #fff;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: #fff;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -260,6 +261,7 @@ ul#nav li.current a { color: #fe6928; }
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+   color: #fff;
 }
 #resume .info {
    font: 16px/24px 'opensans-regular', serif;
@@ -299,7 +301,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #fff;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -313,7 +315,7 @@ ul#nav li.current a { color: #fe6928; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #fff;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
