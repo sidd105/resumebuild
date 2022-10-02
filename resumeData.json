@@ -7,7 +7,7 @@
     "social": [
       {
         "name": "resume",
-        "url": "https://github.com/sidd105/private-repo-react-nice-resume/blob/master/public/SidResume.pdf",
+        "url": "https://github.com/sidd105/private-repo-react-nice-resume/raw/master/public/SidResume.pdf",
         "className": "fa fa-download",
         "message": "Download Resume"
       },
