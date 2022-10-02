@@ -6,6 +6,12 @@
     "resumedownload": "https://s3.ap-south-1.amazonaws.com/www.siddharthpachori.com/resume.pdf",
     "social": [
       {
+        "name": "resume",
+        "url": "https://github.com/sidd105/private-repo-react-nice-resume/blob/master/public/SidResume.pdf",
+        "className": "fa fa-download",
+        "message": "Download Resume"
+      },
+      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/siddharth-pachori-07a35363/",
         "className": "fa fa-linkedin",
