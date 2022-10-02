@@ -9,7 +9,7 @@
         "name": "resume",
         "url": "https://github.com/sidd105/private-repo-react-nice-resume/raw/master/public/SidResume.pdf",
         "className": "fa fa-download",
-        "message": "Download Resume"
+        "message": "Resume"
       },
       {
         "name": "linkedin",
@@ -21,7 +21,7 @@
         "name": "stack overflow",
         "url": "https://stackoverflow.com/users/7625738/siddharth-pachori",
         "className": "fa fa-stack-overflow",
-        "message": "stacks"
+        "message": "Stacks"
       },
       {
         "name": "github",
